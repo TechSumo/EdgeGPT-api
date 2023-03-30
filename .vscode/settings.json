@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "websockets"
-    ]
+    ],
+    "nuxt.isNuxtApp": false
 }
